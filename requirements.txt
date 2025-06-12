@@ -1,3 +1,5 @@
 flask
 openai
 twilio
+uvicorn
+python-multipart
